@@ -33,7 +33,7 @@
 
     [声明依赖](./doc/module/声明依赖.md) --ok
 
-    [版本处理](./doc/module/版本处理.md)
+    [多版本处理](./doc/module/多版本处理.md)
 
 * 开发实例
 
