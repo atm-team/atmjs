@@ -11,9 +11,9 @@
 
 * GUI界面及功能介绍
 
-    [站点管理](./doc/gui/站点管理.md)
+    [站点管理](./doc/gui/站点管理.md) --ok
 
-    [模块管理](./doc/gui/模块管理.md)
+    [模块管理](./doc/gui/模块管理.md) --ok
 
 * 设置及配置
 
@@ -29,11 +29,9 @@
 
     [模板](./doc/module/模板.md) --ok
 
-    [内容嵌入](./doc/module/内容嵌入.md)
+    [内容嵌入](./doc/module/内容嵌入.md) --ok
 
-    [声明依赖](./doc/module/声明依赖.md)
-
-    [定位资源](./doc/module/定位资源.md)
+    [声明依赖](./doc/module/声明依赖.md) --ok
 
 * 开发实例
 
