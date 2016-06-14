@@ -7,6 +7,8 @@
 
     [安装、启动与升级](./doc/ready/安装与启动.md) --ok
 
+    [开源模块](./doc/ready/开源模块.md)
+
     [javascript模块化](./doc/ready/js模块化.md) --ok
 
 * GUI界面及功能介绍
