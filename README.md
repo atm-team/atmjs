@@ -29,8 +29,6 @@
 
     [模板](./doc/module/模板.md) --ok
 
-    [多版本共存](./doc/module/多版本共存.md)
-
     [内容嵌入](./doc/module/内容嵌入.md)
 
     [声明依赖](./doc/module/声明依赖.md)
