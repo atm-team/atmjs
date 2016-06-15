@@ -8,7 +8,7 @@
 
     [安装、启动与升级](./doc/ready/安装与启动.md) --ok
 
-    [开放模块](./doc/ready/基础模块.md) --ok
+    [基础模块](./doc/ready/基础模块.md) --ok
 
     [javascript模块化](./doc/ready/js模块化.md) --ok
 
