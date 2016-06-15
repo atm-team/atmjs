@@ -1,4 +1,5 @@
 # atmjs系统使用文档
+
 * 预备知识
 
     [atmjs工作原理](./doc/ready/工作原理.md) --ok
@@ -7,7 +8,7 @@
 
     [安装、启动与升级](./doc/ready/安装与启动.md) --ok
 
-    [开源模块](./doc/ready/开源模块.md)
+    [开放模块](./doc/ready/基础模块.md) --ok
 
     [javascript模块化](./doc/ready/js模块化.md) --ok
 
@@ -35,7 +36,7 @@
 
     [声明依赖](./doc/module/声明依赖.md) --ok
 
-    [多版本处理](./doc/module/多版本处理.md)
+    [常见问题及处理](./doc/module/问题处理.md) --ok
 
 * 开发实例
 
