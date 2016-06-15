@@ -54,7 +54,7 @@
 
     [es](./doc/extend/es.md)
 
-    [typescript](./doc/extend/typescript.md)
+    [typescript](./doc/extend/ts.md)
 
     [coffeescript](./doc/extend/coffee.md)
 
